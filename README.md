@@ -16,4 +16,4 @@ https://ddunkle.github.io/readMe/
 
 ## Images of deployed site.
 
-![Working Page] (./Develop/Capture.PNG)
+![Working Page](Develop/Capture.PNG)
